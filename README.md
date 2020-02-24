@@ -1,11 +1,3 @@
-Doesn't work with with version 2.3. Working on it.
-
-
-
-
-
-
-
 # MirrorSteamNetworkingSockets
 A Transport layer for Mirror based on Facepunch Steamworks SteamNetworkingSockets.
 
